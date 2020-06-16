@@ -2,53 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b9253b-3222-4500-9ae4-f369c340b5ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cprogrammingcover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/defaultprofile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/NavigationBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shared/SimpleRemovableItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/account/AccountPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/assessment/AssessmentPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/assignments/AssignmentDetailPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/assignments/AssignmentListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/assignments/AssignmentsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/ChangePasswordPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/RecoverPasswordPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/SignInPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/SignInStyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/SignUpPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/SignUpStyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/WelcomePage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/authentication/WelcomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/courses/CourseContentOptionItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/courses/CourseDetailPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/courses/CourseListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/courses/CoursesPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/faq/FAQItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/faq/FAQPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forum/CommentListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forum/CreateTopicPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forum/TopicDetailPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forum/TopicListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forum/TopicsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/IndexPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/profile/EditProfilePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/profile/ProfilePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/questions/MultipleChoiceQuestion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/questions/QuestionOptionItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/questions/WrittenQuestion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/quizzes/QuizDetailPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/quizzes/QuizListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/quizzes/QuizzesPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/reviews/CreateReviewItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/reviews/ReviewItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/reviews/ReviewsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigation/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation/NavigationBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +19,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-learning-lecturer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -92,10 +49,14 @@
       <scripts>
         <script value="start" />
       </scripts>
-      <node-interpreter value="project" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v14.2.0/bin/node" />
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -107,29 +68,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581447091385</updated>
-      <workItem from="1581447093471" duration="5076000" />
+      <workItem from="1581447093471" duration="6484000" />
+      <workItem from="1581529220164" duration="599000" />
+      <workItem from="1581589120186" duration="1194000" />
+      <workItem from="1592302983560" duration="813000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="899" height="274" key="GridCell.Tab.0.bottom" timestamp="1581450277854">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="453" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592303171472">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="899" height="274" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581450277854" />
-    <state width="899" height="274" key="GridCell.Tab.0.center" timestamp="1581450277853">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="453" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1592303171472" />
+    <state x="756" y="310" key="FileChooserDialogImpl" timestamp="1592303020768">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="899" height="274" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581450277853" />
-    <state width="899" height="274" key="GridCell.Tab.0.left" timestamp="1581450277853">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="756" y="310" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1592303020768" />
+    <state width="1822" height="274" key="GridCell.Tab.0.bottom" timestamp="1592303704042">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="899" height="274" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581450277853" />
-    <state width="899" height="274" key="GridCell.Tab.0.right" timestamp="1581450277853">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state width="1822" height="274" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704042" />
+    <state width="1822" height="274" key="GridCell.Tab.0.center" timestamp="1592303704042">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="899" height="274" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581450277853" />
+    <state width="1822" height="274" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704042" />
+    <state width="1822" height="274" key="GridCell.Tab.0.left" timestamp="1592303704041">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1822" height="274" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704041" />
+    <state width="1822" height="274" key="GridCell.Tab.0.right" timestamp="1592303704042">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1822" height="274" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704042" />
   </component>
 </project>

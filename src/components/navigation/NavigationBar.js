@@ -11,14 +11,14 @@ function NavigationBar(props) {
                 <Nav className="ml-auto px-lg-5" activeKey="home"
                      defaultActiveKey="home" navbar={true}>
 
-                    <Nav.Link>
-                        <Link to="/" className="text-white">
-                            Home
-                        </Link>
-                    </Nav.Link>
+                    {/*<Nav.Link>*/}
+                    {/*    <Link to="/" className="text-white">*/}
+                    {/*        Home*/}
+                    {/*    </Link>*/}
+                    {/*</Nav.Link>*/}
 
                     <Nav.Link>
-                        <Link to="/courses" className="text-white">
+                        <Link to="/" className="text-white">
                             Courses
                         </Link>
                     </Nav.Link>
@@ -47,11 +47,11 @@ function NavigationBar(props) {
                         </Link>
                     </Nav.Link>
 
-                    <Nav.Link>
-                        <Link to="/assessment" className="text-white">
-                            Assessment
-                        </Link>
-                    </Nav.Link>
+                    {/*<Nav.Link>*/}
+                    {/*    <Link to="/assessment" className="text-white">*/}
+                    {/*        Assessment*/}
+                    {/*    </Link>*/}
+                    {/*</Nav.Link>*/}
 
                     <Nav.Link>
                         <Link to="/reviews" className="text-white">

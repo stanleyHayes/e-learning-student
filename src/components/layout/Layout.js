@@ -31,14 +31,14 @@ function Layout(props) {
                         <Sidenav style={{backgroundColor: "white"}}>
                             <Sidenav.Body>
                                 <List hover={true} bordered={true} size="md" className="px-2">
-                                    <List.Item>
-                                        <Link to="/" style={styles.link}>
-                                            Home
-                                        </Link>
-                                    </List.Item>
+                                {/*    <List.Item>*/}
+                                {/*        <Link to="/" style={styles.link}>*/}
+                                {/*            Home*/}
+                                {/*        </Link>*/}
+                                {/*    </List.Item>*/}
 
                                     <List.Item>
-                                        <Link to="/courses" style={styles.link}>
+                                        <Link to="/" style={styles.link}>
                                             Courses
                                         </Link>
                                     </List.Item>
@@ -67,11 +67,11 @@ function Layout(props) {
                                         </Link>
                                     </List.Item>
 
-                                    <List.Item>
-                                        <Link to="/assessment" style={styles.link}>
-                                            Assessment
-                                        </Link>
-                                    </List.Item>
+                                    {/*<List.Item>*/}
+                                    {/*    <Link to="/assessment" style={styles.link}>*/}
+                                    {/*        Assessment*/}
+                                    {/*    </Link>*/}
+                                    {/*</List.Item>*/}
 
                                     <List.Item>
                                         <Link to="/reviews" style={styles.link}>

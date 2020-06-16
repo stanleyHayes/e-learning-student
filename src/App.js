@@ -25,9 +25,9 @@ function App() {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/" exact={true}>
-                    <IndexPage/>
-                </Route>
+                {/*<Route path="/" exact={true}>*/}
+                {/*    <IndexPage/>*/}
+                {/*</Route>*/}
                 <Route path="/profile">
                     <ProfilePage/>
                 </Route>
@@ -60,7 +60,7 @@ function App() {
                     <RecoverPasswordPage/>
                 </Route>
 
-                <Route path="/courses">
+                <Route path="/">
                     <CoursesPage/>
                 </Route>
 
