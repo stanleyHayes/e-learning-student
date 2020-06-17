@@ -2,21 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b9253b-3222-4500-9ae4-f369c340b5ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/architecture.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ecommerce.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ethics.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/infosystem.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/infotechnology.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/security.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/systemanalysis.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/classes/classes-action-creators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/classes/classes-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/classes/classes-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/classes/classes-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/courses/courses-action-creators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/courses/courses-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/courses/courses-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/courses/courses-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/exercises/exercises-action-creators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/exercises/exercises-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/exercises/exercises-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/exercises/exercises-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/lessons/lessons-action-creators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/lessons/lessons-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/lessons/lessons-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/lessons/lessons-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/submissions/submissions-action-creators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/submissions/submissions-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/submissions/submissions-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/submissions/submissions-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/topics/topics-action-creators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/topics/topics-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/topics/topics-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/topics/topics-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigation/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/CourseDetailPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/CourseDetailPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/CourseListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/CourseListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/CoursesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/CoursesPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XfpddASpYqg7nO8gQ9JUwrfjDD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +74,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-learning-lecturer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -34,6 +82,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/redux/topics" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src" />
@@ -71,7 +122,9 @@
       <workItem from="1581447093471" duration="6484000" />
       <workItem from="1581529220164" duration="599000" />
       <workItem from="1581589120186" duration="1194000" />
-      <workItem from="1592302983560" duration="813000" />
+      <workItem from="1592302983560" duration="5345000" />
+      <workItem from="1592324727665" duration="597000" />
+      <workItem from="1592341674280" duration="21500000" />
     </task>
     <servers />
   </component>
@@ -87,21 +140,21 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="756" y="310" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1592303020768" />
-    <state width="1822" height="274" key="GridCell.Tab.0.bottom" timestamp="1592303704042">
+    <state width="1822" height="274" key="GridCell.Tab.0.bottom" timestamp="1592346553220">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1822" height="274" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704042" />
-    <state width="1822" height="274" key="GridCell.Tab.0.center" timestamp="1592303704042">
+    <state width="1822" height="274" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592346553220" />
+    <state width="1822" height="274" key="GridCell.Tab.0.center" timestamp="1592346553220">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1822" height="274" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704042" />
-    <state width="1822" height="274" key="GridCell.Tab.0.left" timestamp="1592303704041">
+    <state width="1822" height="274" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592346553220" />
+    <state width="1822" height="274" key="GridCell.Tab.0.left" timestamp="1592346553219">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1822" height="274" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704041" />
-    <state width="1822" height="274" key="GridCell.Tab.0.right" timestamp="1592303704042">
+    <state width="1822" height="274" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592346553219" />
+    <state width="1822" height="274" key="GridCell.Tab.0.right" timestamp="1592346553220">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1822" height="274" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592303704042" />
+    <state width="1822" height="274" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592346553220" />
   </component>
 </project>

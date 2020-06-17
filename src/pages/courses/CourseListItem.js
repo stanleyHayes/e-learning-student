@@ -1,15 +1,17 @@
 import React from "react";
 import {Panel} from "rsuite";
 import {Card} from "react-bootstrap";
+import {useHistory, useParams} from "react-router-dom";
 
 function CourseListItem(props) {
 
     const styles = {
         name: {
-            fontSize: "32px",
+            fontSize: "24px",
             fontFamily: "cursive",
             fontWeight: "bold",
-            color: "blue"
+            color: "blue",
+            cursor: "pointer"
         },
         status: {
             fontSize: "16px",
@@ -31,14 +33,23 @@ function CourseListItem(props) {
             fontWeight: "bold",
         }
     };
+
+    const history = useHistory();
+    const {courseID} = useParams();
+
+    const handleClick = () => {
+        history.push(`/courses/${courseID}`)
+    }
     return (
-        <Panel style={{backgroundColor: "white", borderRadius: "24px"}} className="shadow-sm">
-            <Card.Img src={props.course.image}/>
+        <Panel
+            onClick={handleClick}
+            style={{backgroundColor: "white", borderRadius: "24px"}}
+            className="shadow-sm">
+            <Card.Img style={{height: 200}} src={props.course.image}/>
             <Card.Body>
                 <p style={styles.name}>{props.course.name}</p>
-                <p style={styles.status}>{props.course.status}</p>
+                <p style={styles.status}>{props.course.skillLevel}</p>
                 <p style={styles.amount}>{props.course.price.amount} <span style={styles.currency}>{props.course.price.currency}</span></p>
-                <p style={styles.registered}>{props.course.students.length} registered students</p>
             </Card.Body>
         </Panel>
     )
